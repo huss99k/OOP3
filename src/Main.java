@@ -7,7 +7,7 @@ class Main {
     
     System.out.println("******************** DUOTECH BANK ACCOUNT MANAGEMENT APPLICATION ********************");
 		System.out.println("-------------------------------------------------------------------------------------");
-
+// Git Init :)
     Scanner inp =new Scanner(System.in);
     String add = "";
      
